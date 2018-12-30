@@ -141,7 +141,7 @@ if answer=="y":
                     print(C[i][j],end=" ")
                 print("|\n")
     else:
-        print("\nThe matrix you entered is not reversible.\n\n")
+        print("\nThe matrix you entered is not invertible.\n\n")
         
             
             
